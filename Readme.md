@@ -2,9 +2,12 @@
 
 
 
----
-<p align="center">
-  <img src="https://i.giphy.com/szaTML0LZFAQa3do7Y.webp" alt="Gambar di Tengah" />
+<!-- --- -->
+<br>
+<br>
+<br>
+<p align="center" >
+  <img width="300px" src="https://i.giphy.com/szaTML0LZFAQa3do7Y.webp" alt="Gambar di Tengah" />
 </p>
 
 <h1 align="center">Pemrograman Berorientasi Object</h1>
