@@ -1,4 +1,4 @@
-package soal1;
+// package soal1;
 
 public class BangunRuang {
     int sisi;
@@ -55,4 +55,5 @@ public class BangunRuang {
     public double hitungLuasPermukaanBola() {
         return 4.0 * Math.PI * Math.pow(jariJari, 2);
     }
+
 }
